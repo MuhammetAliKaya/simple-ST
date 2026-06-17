@@ -1,0 +1,5 @@
+{
+    "dataset_dir": "./dataset_klasoru",
+    "slice_name": "B1",
+    "pseudo_cluster": 4
+}
