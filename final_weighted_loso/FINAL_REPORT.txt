@@ -1,0 +1,6 @@
+Mean ARI=0.3634
+Median ARI=0.3986
+Grid 700=1339.72 sec (22.33 min)
+LOSO selection=0.1217 sec
+Final 7 eval=36.31 sec (0.61 min)
+End-to-end=1376.15 sec (22.94 min)
